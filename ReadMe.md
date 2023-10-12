@@ -12,5 +12,6 @@ Small RNA was sequenced from banked peripheral blood serum from 1,134 asthmatic 
 Code_for_Table1.R                                 # Code for Table1 generation
 Differential_ExpressionAnalysis.R                  # Code for  differential miRNA Expression data analysis
 TargetIdentification_functionalEnrichment.R # miRNA target identification and functional enrichment analysis
+HeatMap.R   # Heatmap of differentially expressed miRNA expression
 
 ```
